@@ -1,2 +1,2 @@
 # user_utilities
-using bash script i create a script that add and delete users
+This script is using for user managment tasks like creating and deleteing users
